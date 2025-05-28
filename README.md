@@ -16,7 +16,7 @@ Currently pursuing advanced data science training at **Moringa School**, I spend
 ## 💼 Skills & Tools
 
 **Languages & Libraries:**  
-`Python` | `SQL` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scipy` | `Statsmodel` | 'Scikit-learn`
+`Python` | `SQL` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scipy` | `Statsmodel` | `Scikit-learn`
 
 **Tools:**  
 `Tableau` | `Microsoft Excel` | `Jupyter Notebooks` | 
