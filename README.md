@@ -16,10 +16,10 @@ Currently pursuing advanced data science training at **Moringa School**, I spend
 ## 💼 Skills & Tools
 
 **Languages & Libraries:**  
-`Python` | `SQL` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `SPSS`
+`Python` | `SQL` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scipy` | `Statsmodel` | 'Scikit-learn`
 
 **Tools:**  
-`Tableau` | `Microsoft Excel` | `Jupyter Notebooks` | `QuickBooks`
+`Tableau` | `Microsoft Excel` | `Jupyter Notebooks` | 
 
 **Strengths:**  
 - Data Cleaning & Wrangling  
@@ -27,6 +27,7 @@ Currently pursuing advanced data science training at **Moringa School**, I spend
 - Data Visualization  
 - Statistical Inference  
 - Communication & Reporting
+- Machine Learning
 
 ---
 
