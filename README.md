@@ -59,7 +59,7 @@ Core coursework in data handling, analysis, and decision-making
 
 ## 🤝 Let's Connect
 
-I'm open to internships, collaborations, and freelance work in data analysis and visualization.  
+I'm open to internships, collaborations, and freelance work in Data Analysis, Visualization and Data Science.  
 Feel free to reach out via [email](mailto:bkanyenje@gmail.com) or connect on [LinkedIn]([https://www.linkedin.com/in/brian-kanyenje-72818b358](https://www.linkedin.com/in/brian-kanyenje-bk/)).
 
 ---
