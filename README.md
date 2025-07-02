@@ -7,16 +7,16 @@
 
 ## 🧠 About Me
 
-I'm a **Data Analyst** and **Aspiring Data Scientist** with a passion for using code, visuals, and statistics to uncover insights from data. I enjoy working with Python and building visualizations that make complex information easy to understand.  
+I'm a **Data Scientist** with a passion for using code, statistics, and machine learning to uncover actionable insights from data. I enjoy working with Python and building models that solve real-world problems through data-driven decision-making.
 
-Currently pursuing advanced data science training at **Moringa School**, I spend my time analyzing datasets, refining my skills, and contributing to data-driven projects.
+Having completed advanced data science training at Moringa School, I now focus on analyzing complex datasets, developing predictive models, and continuously sharpening my skills through hands-on, impactful projects.
 
 ---
 
 ## 💼 Skills & Tools
 
 **Languages & Libraries:**  
-`Python` | `SQL` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scipy` | `Statsmodel` | `Scikit-learn`
+`Python` | `SQL` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scipy` | `Statsmodel` | `Scikit-learn` | `NLTK` | `Keras` | `TensorFlow`
 
 **Tools:**  
 `Tableau` | `Microsoft Excel` | `Jupyter Notebooks` | 
@@ -28,6 +28,8 @@ Currently pursuing advanced data science training at **Moringa School**, I spend
 - Statistical Inference  
 - Communication & Reporting
 - Machine Learning
+- Neural Networks
+- Natural Language Processing
 
 ---
 
