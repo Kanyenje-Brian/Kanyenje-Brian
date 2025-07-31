@@ -16,20 +16,22 @@ Having completed advanced data science training at Moringa School, I now focus o
 ## 💼 Skills & Tools
 
 **Languages & Libraries:**  
-`Python` | `SQL` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scipy` | `Statsmodel` | `Scikit-learn` | `NLTK` | `Keras` | `TensorFlow`
+`Python` | `SQL` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scipy` | `Statsmodel` | `Scikit-learn` | `Surprise` | `NLTK` | `Keras` | `TensorFlow` 
 
 **Tools:**  
-`Tableau` | `Microsoft Excel` | `Jupyter Notebooks` | 
+`Tableau` | `Microsoft Excel` | `Jupyter Notebooks` | `Git`
 
 **Strengths:**  
 - Data Cleaning & Wrangling  
 - Exploratory Data Analysis  
 - Data Visualization  
 - Statistical Inference  
-- Communication & Reporting
 - Machine Learning
-- Neural Networks
+- Recommender Systems
 - Natural Language Processing
+- Neural Networks
+- Computer Vision
+
 
 ---
 
