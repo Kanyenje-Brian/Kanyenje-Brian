@@ -16,32 +16,25 @@ Having completed advanced data science training at Moringa School, I now focus o
 ## 💼 Skills & Tools
 
 **Languages & Libraries:**  
-`Python` | `SQL` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scipy` | `Statsmodel` | `Scikit-learn` | `Surprise` | `NLTK` | `Keras` | `TensorFlow` 
+`Python` | `SQL` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scipy` | `Scikit-learn` | `Surprise` | `NLTK` | `Keras` | `TensorFlow` | `Pytorch`
 
 **Tools:**  
 `Tableau` | `Microsoft Excel` | `Jupyter Notebooks` | `Git`
 
-**Strengths:**  
+**Strengths:** 
+- Deep Learning
+- Computer Vision
+- Statistical Inference  
+- Recommender Systems
+- Natural Language Processing
+- Machine Learning
 - Data Cleaning & Wrangling  
 - Exploratory Data Analysis  
 - Data Visualization  
-- Statistical Inference  
-- Machine Learning
-- Recommender Systems
-- Natural Language Processing
-- Neural Networks
-- Computer Vision
+
 
 
 ---
-
-## 📂 Projects
-
-📱 **[Mobile Dataset 2025 Analysis](https://www.kaggle.com/code/arthur254/mobile-dataset-2025)**  
-Exploratory analysis of 930 smartphones from 2025—brand trends, RAM distribution, pricing by country, and more.
-
-📊 **Kaggle & Tableau Visuals**  
-Posting regular data stories and dashboards on [Tableau Public](https://public.tableau.com/app/profile/brian.arthur1141/vizzes).
 
 📈 **Portfolio Website**  
 Explore more of my work at: [datascienceportfol.io/bkanyenje](https://www.datascienceportfol.io/bkanyenje)
@@ -50,7 +43,7 @@ Explore more of my work at: [datascienceportfol.io/bkanyenje](https://www.datasc
 
 ## 📘 Education
 
-**🎓 Moringa School** — Data Science (2025–Present)  
+**🎓 Moringa School** — Data Science (2025–2026)  
 Python Programming, Machine Learning, Probability, Regression
 
 **🎓 Moringa School** - Data Visualization with Python** (2024–2025)
