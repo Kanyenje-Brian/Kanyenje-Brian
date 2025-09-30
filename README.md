@@ -43,14 +43,14 @@ Explore more of my work at: [datascienceportfol.io/bkanyenje](https://www.datasc
 
 ## 📘 Education
 
-**🎓 Moringa School** — Data Science (2025–2026)  
-Python Programming, Machine Learning, Probability, Regression
+**🎓 Moringa School** — Data Science Certification (2025)  
+Python Programming, Machine Learning, NLP, Computer Vision, Deep Learning, Time Series Modelling
 
-**🎓 Moringa School** - Data Visualization with Python** (2024–2025)
-Python Programming, Tableau, Pandas, Data Visualization
+**🎓 Moringa School** - Data Analysis Certification (2024)
+Python Programming, SQL, Tableau, Data Cleaning, EDA, Data Analysis, Data Visualization
 
 **🎓 University of Nairobi** — B.A. Real Estate (2020–2024)  
-Core coursework in data handling, analysis, and decision-making
+Property Management, Property Valuations, Property Appraisal, Arbitration
 
 ---
 
